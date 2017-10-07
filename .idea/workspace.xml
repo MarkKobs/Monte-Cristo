@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f464e4f-d457-4817-897a-d79c75fc6e21" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-2-学生信息系统下.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,12 +18,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="2017-10-1-学生信息系统上.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-1-学生信息系统上.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-1-学生信息系统上.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="13" />
+              <first_editor relative-caret-position="210">
+                <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-2-学生信息系统下.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-2-学生信息系统下.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="474">
+                <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -59,6 +75,7 @@
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/_posts/2014-11-18-gallery-post.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-1-学生信息系统上.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-2-学生信息系统下.md" />
       </list>
     </option>
   </component>
@@ -217,12 +234,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507343964463</updated>
       <workItem from="1507343965857" duration="3393000" />
-      <workItem from="1507363464201" duration="3082000" />
+      <workItem from="1507363464201" duration="3452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6475000" />
+    <option name="totallyTimeSpent" value="6845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -548,8 +565,21 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-1-学生信息系统上.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="13" />
+          <first_editor relative-caret-position="210">
+            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-2-学生信息系统下.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="474">
+            <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor>
